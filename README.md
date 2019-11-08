@@ -35,7 +35,7 @@ Which file to open..
 
 ### Before getting started...
 
-First, you'll need to authorize the fitbit app using the instructions [https://github.com/vcannataro/ECfitbitR#creating-a-fitbit-web-app](here).
+First, you'll need to authorize the fitbit app using the instructions [here](https://github.com/vcannataro/ECfitbitR#creating-a-fitbit-web-app).
 
 You'll need to edit the file called `authorize.r` and replace the placeholder text with your personal `CLIENT_ID` and `CLIENT_SECRET`.
 I'm not sure if double clicking the file to edit it will work - you can use a programcalled `textedit` that comes pre-installed on macOSX to edit the file.
